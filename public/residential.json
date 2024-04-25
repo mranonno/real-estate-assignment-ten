@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Spacious Family Home in Suburban Paradise",
+    "segment_name": "Single-family Homes",
+    "description": "Nestled in a serene suburban neighborhood, this spacious single-family home offers an ideal setting for family living. Boasting 4 bedrooms and 3 bathrooms spread over 2,800 square feet, this residence provides ample space for comfortable living. The modern kitchen features stainless steel appliances, granite countertops, and plenty of cabinet storage. Step outside to a sprawling backyard oasis, perfect for outdoor entertaining or relaxation. Located on Oakwood Drive in Austin, this property is conveniently situated near top-rated schools, parks, and shopping centers.",
+    "price": "$550,000",
+    "status": "sale",
+    "area": "2,800 sq ft",
+    "location": "Oakwood Drive, Austin",
+    "facilities": ["Backyard", "Modern Kitchen", "Living Room"],
+    "image": "https://i.ibb.co/18gZFq1/Single-family-Homes.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Senior Living Community with Resort Amenities",
+    "segment_name": "Senior Living",
+    "description": "Embrace resort-style living in this vibrant senior community situated along the picturesque Sunset Boulevard in Miami. Offering spacious 1-bedroom units spanning 800 square feet, this community provides a range of amenities and services tailored to senior residents. Take a dip in the sparkling swimming pool, stay active in the fitness center, or participate in organized social activities and events. With personalized care services available and a close-knit community atmosphere, this senior living community offers a fulfilling and enriching lifestyle for its residents.",
+    "price": "$3,500/month",
+    "status": "rent",
+    "area": "800 sq ft (1-bedroom)",
+    "location": "Sunset Boulevard, Miami",
+    "facilities": ["Swimming Pool", "Fitness Center", "Community"],
+    "image": "https://i.ibb.co/3pD7pZQ/Senior-Living-Community-with-Resort-Amenities.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "Modern Apartment in Vibrant Neighborhood",
+    "segment_name": "Apartments",
+    "description": "Discover contemporary urban living in this sleek apartment located on Main Street in Los Angeles. Offering 1,500 square feet of open-concept living space, this unit features floor-to-ceiling windows that provide stunning city views and ample natural light. The kitchen boasts quartz countertops, stainless steel appliances, and a breakfast bar for casual dining. Relax on the private balcony or enjoy building amenities such as a fitness center and lounge area. With its prime location near restaurants, shops, and entertainment venues, this apartment offers the ultimate urban lifestyle.",
+    "price": "$800,000",
+    "status": "sale",
+    "area": "1,500 sq ft",
+    "location": "Main Street, Los Angeles",
+    "facilities": ["City Views", "Fitness Center", "Balcony"],
+    "image": "https://i.ibb.co/t2yfx9g/Apartment.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Student Housing Near University Campus",
+    "segment_name": "Student Housing",
+    "description": "Ideal for students seeking convenience and community, this student housing unit is located just steps away from the bustling University Avenue in Boston. Each furnished room within the shared unit offers 600 square feet of space, complete with study areas and ample storage. Residents have access to common areas including a lounge and kitchen, fostering a collaborative and social living environment. With its proximity to campus facilities and public transportation, this housing option is perfect for students looking for a comfortable and connected living experience.",
+    "price": "$1,000/month",
+    "status": "rent",
+    "area": "600 sq ft (per room)",
+    "location": "University Avenue, Boston",
+    "facilities": ["Furnished", "Study Areas", "Common Room"],
+    "image": "https://i.ibb.co/rkDxTBp/Student-Housing-Near-University-Campus.png"
+  },
+  {
+    "id": 5,
+    "estate_title": "Luxury Townhouse in Prime Urban Location",
+    "segment_name": "Townhouses",
+    "description": "Experience luxurious urban living in this exquisite townhouse located in the prestigious Park Avenue district of Manhattan. Spanning 3,000 square feet across multiple levels, this residence offers sophisticated design and premium finishes throughout. Entertain guests on the rooftop terrace while enjoying breathtaking city views. With 4 bedrooms, 4 bathrooms, and an elegant chef's kitchen, this townhouse provides both style and functionality. Its central location provides easy access to fine dining, shopping, and cultural attractions, making it the epitome of cosmopolitan living.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "3,000 sq ft",
+    "location": "Park Avenue, Manhattan",
+    "facilities": ["Rooftop", "High Finishes", "City Views"],
+    "image": "https://i.ibb.co/m9rv48j/Luxury-Townhouse-in-Prime-Location.jpg"
+  },
+
+  {
+    "id": 6,
+    "estate_title": "Luxurious Vacation Rental by the Beach",
+    "segment_name": "Vacation Rentals",
+    "description": "Escape to paradise in this stunning vacation rental located along the scenic Ocean Drive in Malibu. Boasting 2,000 square feet of coastal elegance, this rental offers 3 bedrooms, 2 bathrooms, and an array of luxurious amenities. Step outside to a private outdoor oasis featuring a sparkling pool, spacious patio, and direct beach access. Inside, the interior is tastefully furnished with designer décor and modern comforts. Whether you're lounging by the pool or exploring the nearby attractions, this vacation rental provides an unforgettable coastal retreat.",
+    "price": "$500/night",
+    "status": "rent",
+    "area": "2,000 sq ft",
+    "location": "Ocean Drive, Malibu",
+    "facilities": ["Beach Access", "Private Pool", "Outdoor Dining"],
+    "image": "https://i.ibb.co/hMrVT0D/Luxurious-Vacation-Rental-by-the-Beach.jpg"
+  }
+]

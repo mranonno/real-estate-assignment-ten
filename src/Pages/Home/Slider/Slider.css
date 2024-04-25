@@ -1,0 +1,22 @@
+.slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.slider1 {
+  background-image: url("../../../assets/slide1.jpg");
+}
+.slider2 {
+  background-image: url("../../../assets/slide2.jpg");
+}
+.slider3 {
+  background-image: url("../../../assets/Apartment.jpg");
+}
+.slider4 {
+  background-image: url("../../../assets/vacation.jpg");
+}
